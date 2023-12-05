@@ -1,4 +1,4 @@
-| Annee | Nom de la boite |
+| Annee |  Nom de la boite |
 | 2024 | Star Wars: 800 Stickers |
 | 2024 | Star Wars: Visual Dictionary: Updated Edition |
 | 2023 | Hallmark Keepsake Christmas Tree Ornament - Star Wars The Mandalorian and Grogu |
